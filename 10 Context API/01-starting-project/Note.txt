@@ -1,0 +1,5 @@
+Avoid prop drilling:
++ Component position: a child component passed as a "children" props
++ 
+
+- Note: if have to use useContext hook inside a if-else block => use "use" hook (same functionality)
